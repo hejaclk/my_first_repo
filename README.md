@@ -2,3 +2,5 @@
  First training
 
 Heja Çolak Akkaya
+
+Data Analytics and Math teacher
